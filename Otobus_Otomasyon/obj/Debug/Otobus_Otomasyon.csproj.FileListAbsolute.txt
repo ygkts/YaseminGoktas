@@ -1,0 +1,23 @@
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.exe.config
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.exe
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.pdb
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form1.resources
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form_OtobusSecim.resources
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Properties.Resources.resources
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.csproj.GenerateResource.cache
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.csproj.CoreCompileInputs.cache
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.exe
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.pdb
+E:\C# KURS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.csprojAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\bin\Debug\Otobus_Otomasyon.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form_AracTakip.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form_Kontrol.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Form_OtobusSecim.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\OTHERS\Otobus_Otomasyon\Otobus_Otomasyon\obj\Debug\Otobus_Otomasyon.csproj.GenerateResource.Cache
